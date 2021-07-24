@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    background-color: blanchedalmond;
+}
+
+h1 {
+    color: aquamarine;
+}
+
+h2 {
+    color: blueviolet;
+}
+
+h3 {
+    color: coral;
+}
+
+#p {
+    font-family: monospace;
+    font-style: normal;
+    font-weight: 70px;
+    font-variant: small-caps;
+}
